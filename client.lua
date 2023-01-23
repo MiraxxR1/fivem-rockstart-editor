@@ -24,6 +24,7 @@ local String = {
 			key = "F2",
 			action = function()
 				if not IsRecording() then
+					NetworkSessionLeaveSinglePlayer()
 					ActivateRockstarEditor()
 				end
 			end,
@@ -68,6 +69,7 @@ local String = {
 			key = "F2",
 			action = function()
 				if not IsRecording() then
+					NetworkSessionLeaveSinglePlayer()
 					ActivateRockstarEditor()
 				end
 			end,
