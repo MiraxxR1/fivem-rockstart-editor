@@ -13,4 +13,4 @@ client_scripts {
     'client.lua',
 }
 
-print("^1fivem-rockstart-editor - By MiraxxR#0001 - https://github.com/MiraxxR1/fivem-rockstart-editor - https://discord.gg/wJmnKQHTWD")
+print("^1fivem-rockstart-editor - By MiraxxR#0001 - https://github.com/MiraxxR1/fivem-rockstart-editor - https://discord.gg/wJmnKQHTWD.")
