@@ -2,7 +2,7 @@
 
 ## Introduction
 
-A simple script to allow your players to use the rockstart editor (Recording, saving)
+A simple script to allow your players to use the rockstart editor (Recording, saving).
 My discord : https://discord.gg/wJmnKQHTWD
 
 ## Installation
